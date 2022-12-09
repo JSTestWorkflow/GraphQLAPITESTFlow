@@ -1,0 +1,1 @@
+"query": "{\n  company {\n    ceo\n    employees\n  }\n  launches {\n    launch_site {\n      site_id\n      site_name\n    }\n  }\n}\n","variables": null
